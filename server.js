@@ -57,8 +57,3 @@ app.listen(process.env.PORT || 4000,function(){
 app.post("/faliure",function(req,res){
     res.redirect("/")
 })
-// MYAPI
-// f8c97d5613ddf4f72bb091bf19afd0ad-us12
-
-// AUDIENCE ID
-// 0f5f5af978
